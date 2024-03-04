@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body style="background-color:#f5deb3; ">
+    <form style="text-align: center; direction: rtl; margin-right: 20px;border: 10px solid #990000;
+  border-radius:75px;">
+<h1 style="text-align: center;margin-top: 100px;">אוסטראוו קאלאשין</h1>
+<h2><label for="fname">פרשת:</label> <input id="פרשת" name="פרשת" type="text" style="background: transparent;
+    border: none;
+    border-bottom: 2px solid #000000;"/></h2>
+<h3>בעלי תפילות</h3>
+<br /><label for="fname">מנחה ער"ש:</label> <input id="MINCHA" name="MINCHA" type="text"style="border-radius:5px;" /> <br /> <br />
+<label for="fname">קבלת שבת ומעריב:</label> <input id="KABOLOS" name="KABOLOS" type="text" style="border-radius:5px;"/> <br style="margin-top: 10px;" /> <br />
+<label for="fname">שחרית:</label> <input id="שחרית" name="שחרית" type="text" style="border-radius:5px;"/> <br style="margin-top: 10px;" /> <br />
+<label for="fname">מוסף:</label> <input id="מוסף" name="מוסף" type="text" style="border-radius:5px;"/> <br style="margin-top: 10px;" /> <br />
+<h3>קניית העליות</h3>
+<br /><label for="fname">כהן:</label> <input id="קנה כהן" name="קנה כהן" type="text"style="border-radius:5px;" /> <label for="lname">בסך:</label> <input id="קנה בסך כהן" name="קנה בסך כהן" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">לוי:</label> <input id="קנה לוי" name="קנה לוי" type="text"style="border-radius:5px;" /> <label for="lname">בסך:</label> <input id="קנה בסך לוי" name="קנה בסך לוי" type="text"style="border-radius:5px;" /><br style="margin-top: 10px;" /> <br />
+<label for="fname">שלישי:</label> <input id="קנה שלישי" name="קנה שלישי" type="text" style="border-radius:5px;"/> <label for="lname">בסך:</label> <input id="קנה בסך שלישי" name="קנה בסך שלישי" type="text" style="border-radius:5px;"/><br style="margin-top: 10px;" /> <br />
+<label for="fname">רביעי:</label> <input id="קנה רביעי" name="קנה רביעי" type="text" style="border-radius:5px;"/> <label for="lname">בסך:</label> <input id="קנה בסך רביעי" name="קנה בסך רביעי" type="text" style="border-radius:5px;"/><br style="margin-top: 10px;" /> <br />
+<label for="fname">חמישי:</label> <input id="קנה חמישי" name="קנה חמישי" type="text" style="border-radius:5px;"/> <label for="lname">בסך:</label> <input id="קנה בסך חמישי" name="קנה בסך חמישי" type="text"style="border-radius:5px;" /><br style="margin-top: 10px;" /> <br />
+<label for="fname">שישי:</label> <input id="קנה שישי" name="קנה שישי" type="text"style="border-radius:5px;" /> <label for="lname">בסך:</label> <input id="קנה בסך שישי" name="קנה בסך שישי" type="text"style="border-radius:5px;" /><br style="margin-top: 10px;" /> <br />
+<label for="fname">שביעי:</label> <input id="קנה שביעי" name="קנה שביעי" type="text"style="border-radius:5px;" /> <label for="lname">בסך:</label> <input id="קנה בסך שביעי" name="קנה בסך שביעי" type="text" style="border-radius:5px;"/><br style="margin-top: 10px;" /> <br />
+<label for="fname">אחרון:</label> <input id="קנה אחרון" name="קנה אחרון" type="text"style="border-radius:5px;" /> <label for="lname">בסך:</label> <input id="קנה בסך אחרון" name="קנה בסך אחרון" type="text" style="border-radius:5px;" /><br style="margin-top: 10px;" /> <br />
+<label for="fname">מפטיר:</label> <input id="קנה מפטיר" name="קנה מפטיר" type="text"style="border-radius:5px;" /> <label for="lname">בסך:</label> <input id="קנה בסך מפטיר" name="קנה בסך מפטיר" type="text" style="border-radius:5px;"/>
+<h3>עליות</h3>
+<br /><label for="fname">כהן:</label> <input id="כהן" name="כהן" type="text"style="border-radius:5px;" /> 
+<label for="lname">נדב:</label> <input id="מי שברך כהן" name=" מי שברך כהן" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">לוי:</label> <input id="לוי" name="לוי" type="text" style="border-radius:5px;"/> 
+<label for="lname">נדב:</label> <input id="מי שברך לוי" name=" מי שברך לוי" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">שלישי:</label> <input id="שלישי" name="שלישי" type="text" style="border-radius:5px;"/>
+<label for="lname">נדב:</label> <input id="מי שברך שלישי" name=" מי שברך שלישי" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">רביעי:</label> <input id="רביעי" name="רביעי" type="text" style="border-radius:5px;"/>
+<label for="lname">נדב:</label> <input id="מי שברך רביעי" name=" מי שברך רביעי" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">חמישי:</label> <input id="חמישי" name="חמישי" type="text" style="border-radius:5px;"/> 
+<label for="lname">נדב:</label> <input id="מי שברך חמישי" name=" מי שברך חמישי" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">שישי:</label> <input id="שישי" name="שישי" type="text" style="border-radius:5px;"/> 
+<label for="lname">נדב:</label> <input id="מי שברך שישי" name=" מי שברך שישי" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">שביעי:</label> <input id="שביעי" name="שביעי" type="text"style="border-radius:5px;" /> 
+<label for="lname">נדב:</label> <input id="מי שברך שביעי" name=" מי שברך שביעי" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">אחרון:</label> <input id="אחרון" name="אחרון" type="text" style="border-radius:5px;"/> 
+<label for="lname">נדב:</label> <input id="מי שברך אחרון" name=" מי שברך אחרון" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">מפטיר:</label> <input id="מפטיר" name="מפטיר" type="text" style="border-radius:5px;"/>
+<label for="lname">נדב:</label> <input id="מי שברך מפטיר" name=" מי שברך מפטיר" type="text" style="border-radius:5px;"/><br /> <br />
+<label for="fname">הגבאה:</label> <input id="הגבאה" name="הגבאה" type="text" style="border-radius:5px;"/><br style="margin-top: 10px;" /> <br />
+<label for="fname">גלילה:</label> <input id="גלילה" name="גלילה" type="text"style="border-radius:5px;" /> <br style="margin-top: 10px;" /> <br />
+<label for="fname">פתיחה:</label> <input id="פתיחה" name="פתיחה" type="text"style="border-radius:5px;" /> <br style="margin-top: 10px;" /> <br />
+<label for="fname">פתיחה לאנים זמירות:</label> <input id="פתיחה לאנים זמירות" name="פתיחה לאנים זמירות" type="text" style="border-radius:5px;"/>
+<br style="margin-top: 10px;" /><br />
+<div style="text-align: left;margin-bottom: 50px;margin-left: 50px;">
+  <input type="submit" value="שלח" style="font-size: 20px; padding: 10px 20px;border-radius:15px; background-color: #007BFF; color: white;" />
+</div>
+</form>
+  </body>
+</html>
